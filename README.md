@@ -1,7 +1,7 @@
 phalcon-navigation
 ==================
 
-Simple navigation to Phalcon Framework
+Simple MVC navigation to Phalcon Framework
 
 ===
  It's very easy and useful navigation module to Phalcon Navigation 
@@ -11,8 +11,6 @@ Simple navigation to Phalcon Framework
  - MVC including  
  - html view helper genaraor
 
-@todo - add ACL checking
-@todo - add Schedule checking
 =====
 
 ## Installation
@@ -122,3 +120,7 @@ for php:
 
 ![](/preview.jpg)
 
+## @todo
+
+ - add ACL checking
+ - add Schedule checking
