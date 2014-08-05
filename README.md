@@ -4,7 +4,7 @@ phalcon-navigation
 Simple MVC navigation to Phalcon Framework
 
 ===
- It's very easy and useful navigation module to Phalcon Navigation 
+ It's very easy and useful navigation module to Phalcon Framework 
 
  - very easy configuration
  - multi nodes including
@@ -20,7 +20,7 @@ For example (libs/ or app/vendor or /vendor).
 
 ## Usage and Configuration
 
-In your global configuration file you should to put array with navigation configuration
+In your global configuration file you should to put array with navigation configuration, for example:
 
 ```php
     /**
